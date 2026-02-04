@@ -1,4 +1,4 @@
-# Master's Thesis — Anomaly-based Methods for Class Imbalance ✅
+# Master's Thesis — Techniques to overcome class imbalance using anomaly/defect detection
 
 **Overview**
 This repository contains the notebooks, experiments, and utilities used for a Master's thesis investigating approaches that treat rare classes as anomalies (or defects) to mitigate severe class imbalance. The work covers three domains: medical imaging (NIH Chest X-ray), industrial inspection (MVTec AD), and network intrusion (UNSW-NB15).
