@@ -67,13 +67,9 @@ Place datasets in a folder the notebooks expect (see top cells of each notebook 
 ---
 
 ## 📚 References
-A short list of background reading is included inside the notebooks; see citations and banners at the top of each notebook for algorithm references.
-
----
-
-## ✉️ Contact & License
-For questions or to reproduce experiments, open an issue in this repository or contact the project owner. Check the repository for a `LICENSE` file if you need license information.
+A detailed background reading is included inside the notebooks; see citations and banners within the `report.pdf` for algorithm references.
 
 ---
 
 **Short summary:** The repository is notebook-first — open the three notebooks at the project root, install `requirements.txt`, add datasets locally, and run cells to reproduce the experiments. 🔧💡
+**Note:** This API is based on research and model experiments conducted in the Master's Thesis Experiments repository.
