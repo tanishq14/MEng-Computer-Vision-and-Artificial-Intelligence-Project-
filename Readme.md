@@ -5,7 +5,7 @@ This repository contains the notebooks, experiments, and utilities used for a Ma
 
 ---
 
-## 📁 What is actually in this repository
+## 📁 Background
 The repository is notebook-driven and the active files are at the project root.
 
 - `AnomalyDetection_ChestXray_supervised.ipynb` — Experiments on NIH Chest X-ray images (autoencoder, feature extraction, reconstruction-based anomaly scoring, evaluation). 🔬
