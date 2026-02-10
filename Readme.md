@@ -72,3 +72,5 @@ A detailed background reading is included inside the notebooks; see citations an
 ---
 
 **Short summary:** The repository is notebook-first — open the three notebooks at the project root, install `requirements.txt`, add datasets locally, and run cells to reproduce the experiments. 🔧💡
+
+**Note:** This API is based on research and model experiments conducted in the Master's Thesis Experiments repository.
